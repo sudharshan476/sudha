@@ -1,0 +1,2 @@
+hi welcom to git hub
+upto now i practiced cd,ls,git clone,cat,touch,vi...commands
