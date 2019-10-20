@@ -1,0 +1,12 @@
+list of git commands:-
+command			description
+1)cd                   to change directory
+2)ls                   it showes list of foders and files in courrent path
+3)cat filename          it show content of file
+4)touch filename        it creates new file with given name in current path
+5)vi filename           it opens the file in edit mode
+6)git clone             it clones the repository from github to local system
+7)git add filename      
+8)git status
+9)git commit -m "comments" filename
+10)git push filename
