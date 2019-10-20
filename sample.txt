@@ -1,2 +1,3 @@
 hi welcom to git hub
 upto now i practiced cd,ls,git clone,cat,touch,vi...commands
+now i practiced on git add filename(if we not give file name it adds all file to git),git status,git commit -m(module) "comments" filename,git push filename
